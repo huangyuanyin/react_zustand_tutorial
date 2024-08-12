@@ -10,6 +10,7 @@
   align-items: stretch;
   margin: 1rem 0;
   gap: 1rem;
+  flex-wrap: wrap;
 }
 
 .container > h1{
