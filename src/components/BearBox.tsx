@@ -1,4 +1,4 @@
-import { useBearStore } from '@/stores/bearStore'
+import { useBearStore } from '../stores/bearStore'
 
 export const BearBox = () => {
   // 写法一：
